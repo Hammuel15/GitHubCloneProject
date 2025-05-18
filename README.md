@@ -1,2 +1,1 @@
-# GitHubCloneProject
-a simple repo created to master the git clone command
+This is the description of my repo
